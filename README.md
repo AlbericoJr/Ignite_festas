@@ -1,8 +1,11 @@
-# React + Vite
+# Ignite Festas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação full-stack, criada utilizando o MongoDB na parte de Back-end e no front-end utilizando o framework React.
 
-Currently, two official plugins are available:
+Um site para você fazer o orçamento da sua festa, só vem que tem muito mas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="./public/print.png">
+
+Para você ter acesso ao Back-end  você pode esta baixando o código e no seu VScode você pode abrir a pasta backend e rodar o comando "npm run start".
+
+Na parte do Front-end abrindo o terminal você pode rodar o comando "npm run dev"
